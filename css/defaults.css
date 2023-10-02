@@ -38,6 +38,7 @@ body {
   color: var(--font-color-base);
   margin: 0;
   padding: 0;
+  background-color: var(--white);
 }
 
 *,
